@@ -4,7 +4,6 @@ appodeal.com, 122904, DIRECT
 #BidMachine
 bidmachine.io, 122904, DIRECT
 #AdMob
-google.com, pub-5535966100046396, DIRECT, f08c47fec0942fa0
 google.com, pub-7709296166537812, DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
