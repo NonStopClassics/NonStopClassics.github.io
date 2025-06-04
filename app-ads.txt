@@ -7,6 +7,7 @@ facebook.com, 1088185946349475, DIRECT, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
+applovin.com, 17b6ebcae29c9a3d645826b3829f1025, DIRECT
 applovin.com,c8802c2788bab3703acc24cf065d5390,RESELLER
 applovin.com,5c72b49c2b2ce6949bf0f98eafe9e417,RESELLER
 applovin.com,0b8086e03d0f715f09a9e6e5dbdbb4b8,RESELLER
