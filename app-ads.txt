@@ -1352,3 +1352,21 @@ openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 yieldmo.com, 2754490424016969782, RESELLER
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 voisetech.com, 1127, RESELLER, 9009ef0379162448
+bidmachine.io, 100, reseller
+eliteappgrade.com, 514554, reseller
+mindtos.com, mt45eb5f865ce39e1b, reseller
+smaato.com, 1100059052, reseller, 07bcf65f187117b4
+e-volution.ai, ajxf6r378a9m6catvk, reseller
+smaato.com, 1100053415, reseller, 07bcf65f187117b4
+improvedigital.com, 2607, reseller
+improvedigital.com, 2602, reseller
+mman.kr, 32102, reseller
+onlinemediasolutions.com, 29556, reseller, b3868b187e4b6402
+appnexus.com, 15670, reseller
+yellowhead.com, 67b9c0a1d2e345, reseller
+axonix.com, 57716, reseller
+myfeature.tv, n1fnlxqufcvdx3gt6mjn, reseller
+risecodes.com, 686ea3dfe2c0d50001e494e2, reseller
+apester.com, 2212, reseller
+gitberry.com, 335100012, reseller
+bidmachine.io, 101, reseller
